@@ -118,3 +118,7 @@ Step 4: Review the results displayed in the terminal.
 Error: Command Not Recognized: Ensure Ruby and ChromeDriver paths are properly set in the system's PATH variable.
 Missing Gem Error: Run gem install <gem_name> to install missing gems.
 ChromeDriver Compatibility: Verify that the ChromeDriver version matches your Chrome browser version.
+
+
+
+-Timofey
